@@ -4,7 +4,7 @@ Console.Write("Digite um número ");
 var calc1 = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
 
-Console.Write("Digite o outro número ");
+Console.Write("Digite outro número ");
 var calc2 = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
 
